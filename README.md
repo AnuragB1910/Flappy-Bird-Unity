@@ -26,17 +26,23 @@ _Prerequisites_
 <br>
 **Launch Unity and open the FlappyBird project.**
 <br>
+<br>
 **Hit the Play button in Unity to start testing the game.**
 <br>
+<br>
 **You can build the game to your desired platform (PC, Web, Mobile, etc.) by navigating to File > Build Settings and selecting the platform.**
+<br>
 <br>
 **Controls**
 <br>
 Tap/Click: Tap the screen or press the mouse to make the bird fly upwards.
 <br>
+<br>
 **Game Over**
 <br>The game ends when the bird collides with a pipe or the ground.
 <br>The score is displayed at the end of the game.
-
+<br>
+<br>
+<br>
 **Contributions**<br>
 Feel free to fork this project and create pull requests for any improvements or additional features!
