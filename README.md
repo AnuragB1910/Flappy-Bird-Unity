@@ -2,7 +2,7 @@
 This is a simple clone of the popular Flappy Bird game, developed using Unity. The game features classic mechanics where the player controls a bird trying to navigate through pipes by tapping the screen to keep the bird airborne. The objective is to avoid colliding with the pipes and achieve the highest possible score.
 <br>
 <br>
-**Features**
+**Features**<br>
 _Flappy Bird Mechanics:_ The bird can be controlled by tapping the screen to fly upwards.<br>
 _Obstacle Pipes:_ Pipes randomly appear on the screen, and the player must navigate the bird through the gaps.<br>
 _Scoring System:_ The player earns points for every successful pass between pipes.
