@@ -7,7 +7,7 @@ _Flappy Bird Mechanics:_ The bird can be controlled by tapping the screen to fly
 _Obstacle Pipes:_ Pipes randomly appear on the screen, and the player must navigate the bird through the gaps.<br>
 _Scoring System:_ The player earns points for every successful pass between pipes.
 <br>
-_Game Over:_ The game ends when the bird collides with a pipe or falls to the ground.
+_Game Over:_ The game ends when the bird collides with a pipe or falls to the ground .
 <br>
 _Start Button:_ The game starts only after clicking the play button, offering a smooth gameplay experience.
 <br>
